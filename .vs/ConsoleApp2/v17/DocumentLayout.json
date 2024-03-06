@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sk713\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BE4EFA-465C-44B8-A859-A3B162F1E268}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\sk713\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BE4EFA-465C-44B8-A859-A3B162F1E268}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BE4EFA-465C-44B8-A859-A3B162F1E268}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\sk713\\source\\repos\\consoleapp2\\consoleapp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BE4EFA-465C-44B8-A859-A3B162F1E268}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BE4EFA-465C-44B8-A859-A3B162F1E268}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\sk713\\source\\repos\\consoleapp2\\consoleapp2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BE4EFA-465C-44B8-A859-A3B162F1E268}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\sk713\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Inventory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Inventory.cs",
+              "ToolTip": "C:\\Users\\sk713\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Inventory.cs",
+              "RelativeToolTip": "ConsoleApp2\\Inventory.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T03:26:05.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sk713\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Product.cs",
+              "ToolTip": "C:\\Users\\sk713\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Product.cs",
+              "RelativeToolTip": "ConsoleApp2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T03:25:57.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sk713\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\sk713\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T03:25:16.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
