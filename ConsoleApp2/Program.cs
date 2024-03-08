@@ -1,9 +1,4 @@
-﻿using System;
-using System.Linq; // Add this using directive to access LINQ methods
-using System.Collections.Generic;
-namespace InventoryManagementSystem
-{
-    class Program
+﻿ class Program
     {
         static void Main(string[] args)
         {
@@ -40,7 +35,6 @@ namespace InventoryManagementSystem
             inventory.PrintTotalNumberOfProducts();
 
             // Updating quantity of cabbage
-            // Updating quantity of cabbage
             inventory.UpdateQuantity("cabbage", 50);
             Console.WriteLine("\nFinal quantity of cabbage in the inventory:");
             inventory.PrintProductQuantity("cabbage");
@@ -51,4 +45,4 @@ namespace InventoryManagementSystem
             Console.WriteLine($"\nTotal price for purchases: {totalPrice} RS");
         }
     }
-}
+
